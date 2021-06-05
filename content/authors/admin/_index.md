@@ -1,41 +1,41 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include applied statistical analysis, data analytics & visualization, web development, and reproducible research using R Markdown.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MSc in Decision Science
+    institution: Universiti Utara Malaysia
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BSc Mathematics with Economics
+    institution: University of Kentucky
+    year: 1992
+  - course: Associate General Studies
+    institution: Indiana University - Purdue University
+    year: 1990
+email: "kamarul.ariffin.167118@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Structural Equation Modeling (SmartPLS, AMOS, RSem)
+- Data Analytics & Visualization
+- Web Development
+- Reproducible Research
 organizations:
-- name: Stanford University
-  url: ""
-role: Python Instructor
+- name: Universiti Teknologi MARA
+  url: "https://www.kedah.uitm.edu.my/"
+role: Statistics, R and Python Instructor
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: mailto:kamarul.ariffin.167118@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/kamarulariffin
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ariff118
 superuser: true
-title: Nelson Bighetti
+title: Kamarul Ariffin Mansor
 user_groups:
 - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My Short Bio
